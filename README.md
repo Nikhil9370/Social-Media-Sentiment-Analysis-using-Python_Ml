@@ -1,6 +1,3 @@
-![NLP Sentiment Analysis](https://github.com/dinamohsin/Social-Media-Sentiment-Analysis-/blob/main/img/NLP.png?raw=true)
-
-
 # Social Media Sentiment Analysis (Python & NLP)
 
 This project focuses on analyzing public sentiment from social media data using Natural Language Processing (NLP) techniques. It involves cleaning and preprocessing raw text, performing sentiment classification using TextBlob, balancing the dataset, training a machine learning model, and visualizing sentiment trends.
